@@ -1,4 +1,9 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# TEST TASK MAGNISE
+
+# TECHNOLOGIES
+- HTML5
+- CSS3
+
+# DESIGN:
+https://xd.adobe.com/view/1a2e27b7-fe29-4289-b2f9-b6edeecdb8ce-4f7d/screen/eb3a0f9d-9880-42cd-ac0e-263461b7edcf/specs/
+
